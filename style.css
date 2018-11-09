@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'GeoEditRegular', 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Helvetica, Arial, sans-serif;
+    color: darkgray;
+    background:#f3f3f3;
+
+}
+h2{
+    color:white;
+
+}
+.container{
+    max-width: 960px;
+    width: 96%;
+    margin:auto;
+
+}
+header{
+    background: #fff;
+    margin-bottom: 20px;
+    overflow: hidden;
+
+
+}
+.logo{
+    float:left;
+    margin-top: 10px;
+
+}
+nav{
+    float: right;
+    line-height: 120px;
+
+}
+nav li{
+    display: inline-block;
+    padding: 5px 20px;
+    margin-left: 10px;
+    background:#f3f3f3;
+    line-height: normal;
+   
+
+
+}
+nav li a{
+    text-decoration: none;
+    color: darkgray;
+
+
+}
+.content h2{
+    background: #ff4713;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+}
+.content article{
+    float: left;
+    width: 670px;
+    margin-bottom: 5px;
+    
+}
+.content ul{
+    float: right;
+    width: 250px;
+    background: #338989;
+    padding: 20px;
+    border-radius: 5px;
+
+    
+
+}
+.content ul li a{
+    color: white;
+    margin-bottom: 5px;
+    text-decoration: none;
+}
+footer{
+    position: bottom center;
+    bottom:0;
+    left:0;
+    height:110px;   
+    margin-left: auto;
+    margin-right: auto;
+    background:#222;
+}
+ .links{
+    font-weight: bold;
+    color: black;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    vertical-align: baseline;
+
+ }
